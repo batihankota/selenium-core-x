@@ -1,4 +1,4 @@
-# SeleniumCoreX: Advanced Core Automation Tool :)
+# SeleniumCoreX: Advanced Core Automation Tool
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## Installation
 
-To get started with this project, follow these steps:
+To get started with use this project, follow these steps:
 
 1. **Clone the Repository:**
    
@@ -52,7 +52,7 @@ Make sure you have Maven and JDK installed on your machine before running the pr
 
 ## Dependencies
 
-List all the libraries and dependencies used in your project:
+List of all libraries and dependencies I used in this project:
 
 - Log4j: Version X.X.X
 - Selenium WebDriver: Version X.X.X
@@ -65,15 +65,15 @@ List all the libraries and dependencies used in your project:
 
 ## Contributing
 
-Thank you for considering contributing to my project! Here are some guidelines to help you get started:
+Here are some guidelines to help you get started:
 
 ### Reporting Bugs
 
-If you encounter a bug while using my project, please open an issue on my issue tracker. Include as much detail as possible, including steps to reproduce the bug, expected behavior, and actual behavior.
+If you encounter a bug while using this project, please open an issue on my issue tracker. Include as much detail as possible, including steps to reproduce the bug, expected behavior, and actual behavior.
 
 ### Submitting Feature Requests
 
-We welcome feature requests! Please open an issue on my issue tracker and describe the feature you would like to see added to the project. Provide as much detail as possible to help us understand your request.
+I welcome feature requests! Please open an issue on your issue tracker and describe the feature you would like to see added to the project. Provide as much detail as possible to help me understand your request.
 
 ### Making Code Contributions
 
