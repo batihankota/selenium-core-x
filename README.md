@@ -54,14 +54,14 @@ Make sure you have Maven and JDK installed on your machine before running the pr
 
 List of all libraries and dependencies I used in this project:
 
-- Log4j: Version 1.2.17
-- Selenium WebDriver: Version 4.18.1
-- Apache POI: Version 5.2.4
-- RestAssured: Version 4.5.1
-- JUnit: Version 4.13.2
-- Allure JUnit4: Version 2.14.0
-- AspectJ Weaver: Version 1.9.21
-- Maven Surefire Plugin: Version 3.2.5
+- **Log4j:** Version 1.2.17
+- **Selenium WebDriver:** Version 4.18.1
+- **Apache POI:** Version 5.2.4
+- **RestAssured:** Version 4.5.1
+- **JUnit:** Version 4.13.2
+- **Allure JUnit4:** Version 2.14.0
+- **AspectJ Weaver:** Version 1.9.21
+- **Maven Surefire Plugin:** Version 3.2.5
 
 ## Contributing
 
