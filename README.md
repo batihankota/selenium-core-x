@@ -1,5 +1,7 @@
 # SeleniumCoreX: Advanced Core Automation Tool
 
+During my free time, I prioritize self-improvement over gaming. Given my busy work schedule, I had limited time to develop this automation tool. I dedicated two days over the weekend to its development alongside my regular work commitments. If you encounter any issues, please feel free to notify me. I trust it will serve your needs effectively.
+
 ## Table of Contents
 
 - [Installation](#installation)
