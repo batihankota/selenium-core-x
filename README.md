@@ -1,6 +1,4 @@
-# Project Name
-
-Selenium-core based automation tool
+# SeleniumCoreX: Advanced Core Automation Tool :)
 
 ## Table of Contents
 
